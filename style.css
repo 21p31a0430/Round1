@@ -1,0 +1,306 @@
+.a2{
+	margin-top: 100px;
+	font-weight: bold;
+	font-size: 50px;
+}
+.a3{
+	font-size: 15px;
+	color: grey;
+	margin-top: 15px;
+}
+.a4{
+	border-radius: 5px;
+	height: 40px;
+}
+.card{
+	border: none;
+}
+.a5{
+	margin-left: 20px;
+	border-radius: 5px;
+	height: 40px;
+	border-color: darkblue;
+}
+.a6{
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.a7{
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.a8{
+	font-size: 15px;
+	color: grey;
+	font-family: italic;
+}
+.a9{
+	margin-top: 75px;
+}
+.a10{
+	font-size: 15px;
+	color: grey;
+	line-height: 25px;
+}
+.a12{
+	margin-top: 25px;
+	font-size: 15px;
+	color: grey;
+}
+.a13{
+	font-size: 15px;
+	color: grey;
+}
+.a14{
+	border-radius: 5px;
+	height: 40px;
+	background-color: #6f42c1;
+	border: none;
+}
+.a15{
+	margin-left: 20px;
+	border-radius: 5px;
+	height: 40px;
+	border-color: purple;
+}
+.a16{
+	text-align: center;
+	font-weight: bold;
+	padding-bottom: 30px;
+}
+.a17{
+	color: grey;
+	font-size: 15px;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.a18{
+	border-radius: 5px;
+	border-color: grey;
+}
+.a20{
+	padding-top: 80px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	font-size: 50px;
+}
+.a21{
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.name{
+	margin-left: 20px;
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+	margin-bottom: 150px;
+}
+.mail{
+	margin-left: 20px;
+	width: 350px;
+	height: 40px;
+	border-radius: 5px;
+	border: none;
+	margin-bottom: 150px;
+}
+.a22{
+	margin-left: 20px;
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	border-color: whitesmoke;
+	background-color: royalblue;
+	margin-bottom: 150px;
+}
+.a23{
+	text-align: center;
+}
+.a24{
+	text-align: center;
+	font-size: 15px;
+	color: grey;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+/* Float four columns side by side */
+.column1 {
+  float: left;
+  width: 30%;
+  padding: 0 10px;
+  margin-left: 30px;
+}
+
+/* Remove extra left and right margins, due to padding */
+.row1 {
+	margin: 0 -5px;
+	margin-bottom: 40px;
+}
+.column2 {
+  float: left;
+  width: 30%;
+  padding: 0 10px;
+  margin-left: 30px;
+}
+.a25{
+	margin-top: 20px;
+	height: 40px;
+	border-radius: 5px;
+	width: 160px;
+}
+.a26{
+	text-align: center;
+	font-weight: bold;
+}
+.a27{
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+}
+.a28{
+	font-size: 40px;
+	margin-left: 70px;
+	color: purple;
+}
+.a29{
+	font-size: 40px;
+	margin-left: 70px;
+	color: purple;
+}
+.a30{
+	font-size: 40px;
+	margin-left: 70px;
+	color: purple;
+}
+.a31{
+	font-size: 40px;
+	margin-left: 70px;
+	color: purple;
+}
+.a32{
+	margin-left: 70px;
+	font-weight: bold;
+}
+.a33{
+	margin-left:70px;
+	font-weight: bold;
+}
+.a34{
+	margin-left: 70px;
+	font-weight: bold;
+}
+.a35{
+	margin-left: 70px;
+	font-weight: bold;
+}
+.a36{
+	text-align: center;
+}
+.a37{
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+}
+.a38{
+	font-weight: bold;
+	color: white;
+	padding-top: 50px;
+	padding-left: 25px;
+}
+.btn {
+	border-radius: 5px;
+	border-color: white;
+	color: white;
+	margin-bottom: 20px;
+	font-size: 15px;
+	padding: 7px;
+	margin-left: 200px;
+	width: 150px;
+}
+.a40{
+	color: grey;
+	line-height: 38px;
+}
+.a41{
+	color: white;
+	font-weight: bold;
+}
+.a42{
+	color: white;
+	font-weight: bold;
+}
+.a43{
+	color: grey;
+}
+.a44{
+	color: white;
+	font-weight: bold;
+}
+.a45{
+	color: grey;
+}
+.a46{
+	color: white;
+	font-weight: bold;
+}
+.a47{
+	color: grey;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+/* Style the counter cards */
+#card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+#card-body{
+	background-color: darkblue;
+}
+#card1 {
+	margin-top: 100px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
